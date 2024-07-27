@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CGUI-master",
+    "\\CGUI-master\\CGAlgorithms",
+    "\\CGUI-master\\CGAlgorithmsUnitTest",
+    "\\CGUI-master\\CGAlgorithms\\Algorithms",
+    "\\CGUI-master\\CGAlgorithms\\Algorithms\\ConvexHull",
+    "\\CGUI-master\\CGAlgorithms\\Algorithms\\PolygonTriangulation",
+    "\\CGUI-master\\CGAlgorithms\\Algorithms\\SegmentIntersection"
+  ],
+  "SelectedNode": "\\CGUI-master\\CGAlgorithms\\Algorithms\\SegmentIntersection\\SweepLine.cs",
+  "PreviewInSolutionExplorer": false
+}
